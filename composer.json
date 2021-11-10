@@ -1,5 +1,5 @@
 {
-  "name": "auth0/login",
+  "name": "rajnarayan-pix/login",
   "description": "Laravel plugin that helps authenticate with the Auth0 service",
   "type": "library",
   "keywords": [
